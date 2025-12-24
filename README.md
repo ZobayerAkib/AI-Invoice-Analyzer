@@ -5,6 +5,9 @@ An AI-powered invoice and receipt analyzer that extracts structured invoice data
 The system supports **vision-based parsing**, **PDF text extraction**, and outputs **validated JSON** via a FastAPI backend.
 
 ---
+## 📹 Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1S6pQSlCOxjWqbw-sPBgAGcsGtGd63deA/view?usp=sharing)
 
 ## 🚀 Features
 
