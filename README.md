@@ -1,4 +1,4 @@
-# 🧾 AI Invoice Analyzer (FastAPI + Vision + PDF)
+# 🧾 AI Invoice Analyzer (FastAPI + LLM + Vision + PDF)
 
 An AI-powered invoice and receipt analyzer that extracts structured invoice data from **images (JPG/PNG)** and **PDF documents** using a Large Language Model (LLM).
 
