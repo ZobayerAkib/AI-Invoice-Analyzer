@@ -122,7 +122,7 @@ curl -X POST http://127.0.0.1:8000/analyze-invoice \
 
 ## 🙌 Author
 ```
-**Md. Zobayer Ibna Kabir**
+Md. Zobayer Ibna Kabir
 CSE Graduate | AI & ML Enthusiast
 GitHub: https://github.com/ZobayerAkib
 ```
