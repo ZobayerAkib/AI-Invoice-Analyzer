@@ -2,7 +2,7 @@
 
 An AI-powered invoice and receipt analyzer that extracts structured invoice data from **images (JPG/PNG)** and **PDF documents** using a Large Language Model (LLM).
 
-The system supports **vision-based parsing**, **PDF text extraction**, and outputs **validated JSON** via a FastAPI backend with a simple HTML frontend.
+The system supports **vision-based parsing**, **PDF text extraction**, and outputs **validated JSON** via a FastAPI backend.
 
 ---
 
