@@ -45,7 +45,6 @@ Backend: FastAPI, Pydantic
 AI Model: GitHub-hosted LLM (OpenAI SDK compatible)
 Vision: Image-based invoice parsing
 PDF Parsing: PyMuPDF
-Frontend: HTML, CSS, JavaScript
 Deployment-ready: Uvicorn
 
 ```
